@@ -1,5 +1,5 @@
 # AD-Checker
-Custom script used to query AD using Windows inbuild LDAP query
+Custom script used to query AD using Windows inbuild LDAP query without the need of AD module.
 
 # Preview
 
